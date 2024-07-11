@@ -1,0 +1,60 @@
+.law{
+    width: 100%;
+    height: auto;
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.law2{
+    width: 100px;
+    height: auto;
+    background-color: rgb(45, 34, 14);
+
+    
+}
+.law3{
+    width: 100px;
+    height: auto;
+    background-color: rgb(13, 70, 70);
+    
+}
+.law4{
+    width: 100px;
+    height: auto;
+    background-color: rgb(81, 0, 255);
+    
+}
+.law5{
+    width: 100px;
+    height: auto;
+    background-color: rgb(158, 43, 43);
+    
+}
+.law6{
+    width: 100px;
+    height: auto;
+    background-color: rgb(63, 115, 210);
+    
+}
+.law7{
+     width: 100px;
+    height: auto;
+    background-color: rgb(151, 43, 179);
+
+    
+}
+.law8{
+    width: 100px;
+    height: auto;
+    background-color: rgb(114, 33, 81);
+    
+}
+.law3 :hover{
+    width: 100px;
+    height: auto;
+    background-color: rgb(46, 10, 129);
+    
+}
